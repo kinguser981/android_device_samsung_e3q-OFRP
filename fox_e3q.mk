@@ -23,8 +23,17 @@ OF_USE_GREEN_LED := 0
 OF_FLASHLIGHT_ENABLE := 1
 OF_ALLOW_DISABLE_NAVBAR := 0
 
+
+# Maximum permissible splash image size (in kilobytes); do *NOT* increase
+OF_SPLASH_MAX_SIZE := "130"
+
+OF_ADVANCED_SECURITY := 1
+
+# Custom pic for maintainers about section info
+OF_MAINTAINER := "Samuel Kendall"
+
 # OrangeFox GUI settings
-OF_SCREEN_H := 2400
+OF_SCREEN_H := 2280
 OF_STATUS_H := 100
 OF_STATUS_INDENT_LEFT := 48
 OF_STATUS_INDENT_RIGHT := 48
