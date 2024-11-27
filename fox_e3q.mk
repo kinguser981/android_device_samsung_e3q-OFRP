@@ -30,7 +30,7 @@ OF_SPLASH_MAX_SIZE := "130"
 OF_ADVANCED_SECURITY := 1
 
 # Custom pic for maintainers about section info
-OF_MAINTAINER := "Samuel Kendall"
+OF_MAINTAINER := Samuel Kendall
 
 # OrangeFox GUI settings
 OF_SCREEN_H := 2280
