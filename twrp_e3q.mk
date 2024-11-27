@@ -7,6 +7,7 @@
 
 # Release name
 PRODUCT_RELEASE_NAME := e3q
+DEVICE_PATH := device/samsung/e3q
 
 # Inherit any OrangeFox-specific settings
 $(call inherit-product-if-exists, $(DEVICE_PATH)/fox_$(PRODUCT_RELEASE_NAME).mk)
