@@ -1,4 +1,4 @@
-# TWRP Device Tree for Samsung Galaxy S24 Ultra
+# OrangeFox Recovery Device Tree for Samsung Galaxy S24 Ultra
 
 ## For Decryption
 [Install Instructions](https://xdaforums.com/t/sm-s928b-0-userdata_aio-odin-flashable-to-automatically-remove-encryption-make-rom-rw-install-twrp-root-use-on-stock-firmware-unlocked-bootloaders.4660645/)
